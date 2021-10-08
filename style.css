@@ -1,0 +1,17 @@
+body{
+    background-size: cover;
+    color: white;
+    font-family: 'Lobster Two', cursive;
+}
+hr{
+    background-color: rgb(255, 255, 255);
+    height: 2px;
+}
+canvas{
+    box-shadow: 5px 5px 5px white;
+    border-radius: 30px;    
+}
+::selection{
+    color: rgb(0, 0, 0);
+    background: rgb(255, 255, 255);
+}
